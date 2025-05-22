@@ -25,7 +25,7 @@ import android.widget.TextView;
 
 public class Burgers extends AppCompatActivity {
 
-    String[] countries = { "Уфа", "овый Уренгой", "Санкт-Петербург", "Сеул"};
+    String[] countries = { "Уфа", "Новый Уренгой", "Санкт-Петербург", "Сеул"};
 
 
     @Override
