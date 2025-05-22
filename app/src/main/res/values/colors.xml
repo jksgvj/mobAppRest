@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vinous">#990F3D</color>
+    <color name="dark_pink">#CC2944</color>
+    <color name="fuchsia">#D97787</color>
+    <color name="pink">#E6ACB6</color>
+    <color name="light_pink">#E6D6CF</color>
+    <color name="back_pink">#FFF2FA</color>
+    <color name="none">#00FFFFFF</color>
+
+    <!-- <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vinous">#93002F</color>
+    <color name="dark_pink">#AA2A53</color>
+    <color name="fuchsia">#E20048</color>
+    <color name="pink">#F13C76</color>
+    <color name="light_pink">#F16C97</color>
+    <color name="back_pink">#FFF2FA</color>
+    <color name="none">#00FFFFFF</color> -->
+</resources>
